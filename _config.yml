@@ -1,9 +1,9 @@
 # Basic settings
-description:  This is personal blog.
+description:  Welcome to Song-D-U's Blog.
 baseurl: "/"
-url: "https://lavkumarv.github.io" 
-twitter_username: LAV_K_V
-github_username:  lavkumarv
+url: "https://song-d-u.github.io" 
+twitter_username: Song_d_U
+github_username:  Song-D-U
 include: ['_pages']
 
 # Build settings
