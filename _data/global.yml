@@ -1,7 +1,7 @@
 # Site Settings
-title: 'Lav Vishwakarma'
-description: 'My personal Blog'
-url: 'https://lavkumarv.github.io'
+title: 'Song-D-U'
+description: 'Hello Github!'
+url: 'https://song-d-u.github.io'
 
 # Admin Settings
 admin_name: 'Lav Vishwakarma'
@@ -9,19 +9,17 @@ admin_email: 'lav.kumar.dev@gmail.com'
 
 #####################################################################
 #About Page
-author_name: 'Lav Kumar Vishwakarma'
-author_profession: 'Full Stack Developer'
-author_description: 'A computer science graduate student at University Institute of Technology, RGPV with great interest in Software development and coding efficient software.</br></br>
-My 3+ years of experience in web technologies like J2EE/Jersey, Node.js, Angular.js, c#, MongoDB, MySQL, Linux with Appointy and TechShanty provides me with a rich experience in coding and maintaining large scalable applications.</br></br>
-Working at Appointy as Software Developer Intern, I was involved in Full stack development of a SAAS application which is used by 65,000+ business worldwide. '
+author_name: 'Song-D-U'
+author_profession: 'Student'
+author_description: 'just a normal student. '
 author_image: '/images/author.jpg'
 
 # social proiles
-facebook: 'https://www.facebook.com/lavkumarv'
-twitter: 'https://twitter.com/LAV_K_V'
-linkedin: 'https://www.linkedin.com/in/lav-vishwakarma/'
-instagram: 'https://www.instagram.com/vishwakarmalav/'
-github: 'https://github.com/lavkumarv'
-google-plus: 'https://plus.google.com/+LAVKUMARVISHWAKARMAdev'
+facebook: 'https://www.facebook.com/Song-D-U'
+twitter: 'https://twitter.com/Song-D-U'
+linkedin: 'https://www.linkedin.com/in/Song-D-U/'
+instagram: 'https://www.instagram.com/Song-D-U/'
+github: 'https://github.com/Song-D-U'
+google-plus: 'https://plus.google.com/+Song-D-U'
 stackoverflow: 'http://stackoverflow.com/users/4703818/lav-kumar-vishwakarma'
 #####################################################################
